@@ -2802,8 +2802,13 @@ textarea.form-control-lg {
 }
 
 .btn {
+<<<<<<< HEAD
   --bs-btn-padding-x: 0;
   --bs-btn-padding-y: 0;
+=======
+  --bs-btn-padding-x: 0.75rem;
+  --bs-btn-padding-y: 0.375rem;
+>>>>>>> 666d740756386401c4c90391290ac2e9bd86066d
   --bs-btn-font-family: ;
   --bs-btn-font-size: 1rem;
   --bs-btn-font-weight: 400;
